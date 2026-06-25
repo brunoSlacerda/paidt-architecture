@@ -59,4 +59,4 @@ The two subsystems with the most interesting engineering are documented in depth
 
 ---
 
-*Built and operated by Bruno Lacerda.*
+
